@@ -1,0 +1,13 @@
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\bin\Debug\net8.0\DXApplication1.Module.deps.json
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\bin\Debug\net8.0\DXApplication1.Module.dll
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\bin\Debug\net8.0\DXApplication1.Module.pdb
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.csproj.AssemblyReference.cache
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.AssemblyInfoInputs.cache
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.AssemblyInfo.cs
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.sourcelink.json
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.dll
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\refint\DXApplication1.Module.dll
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\DXApplication1.Module.pdb
+D:\Documents\GitHub\ASP.net-project\DXApplication1\DXApplication1.Module\obj\Debug\net8.0\ref\DXApplication1.Module.dll
