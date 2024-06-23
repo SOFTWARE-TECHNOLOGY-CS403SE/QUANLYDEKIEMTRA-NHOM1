@@ -62,7 +62,8 @@ public class GetApiController {
 
 
     //viết giống như get_category_question thay category_question service là question service
-    //service đã được viết sẵn chỉ việc lấy hàm ra dùng
+    //service đã được viết sẵn chỉ việc lấy hàm ra dùng (dùng post man để test)
+    //example url: http://localhost:9090/v1/api/create_question
     @GetMapping("/get_question")
     private ResponseEntity<?> get_question(){
         JSONObject jsonObject = new JSONObject();
